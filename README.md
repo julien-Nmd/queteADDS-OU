@@ -20,9 +20,7 @@ Puis dans le server manager.
 Tools => Active Directory Users and Computers
  <P ALIGN="center"><IMG src="Capture d’écran (3).png" width=600></P>  
 
-Dans la fenêtre qui s'ouvre on va renseigner le nom du groupe : Students 
-Dans create in, on fait change et on selectionne Wilders_students.  
-Puis OK.  
+Ensuite on va se mettre
 
  <P ALIGN="center"><IMG src="Capture d’écran (4).png" width=600></P>  
 
