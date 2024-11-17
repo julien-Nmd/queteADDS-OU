@@ -16,7 +16,8 @@ Puis OK
 #### - Créer un Groupe d'utilisateurs Students
 
   
-Puis en bas on selectionne l'OU qu'on vient de créer et à droite, new => group
+Puis dans le server manager.
+Tools => Active Directory Users and Computers
  <P ALIGN="center"><IMG src="Capture d’écran (3).png" width=600></P>  
 
 Dans la fenêtre qui s'ouvre on va renseigner le nom du groupe : Students 
