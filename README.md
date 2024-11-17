@@ -42,4 +42,9 @@ Puis on va dans Wilders_Students => A droite on double clique sur Students => On
 
 <P ALIGN="center"><IMG src="Capture d’écran (9).png" width=600></P>    
 
+Ensuite, on va vérifier Users => Toto => Member of => et on peut constater que Toto fait bien partie du groupe Students:  
+
+<P ALIGN="center"><IMG src="Capture d’écran (10).png" width=600></P>  
+
+
 
