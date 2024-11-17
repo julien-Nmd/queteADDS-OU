@@ -26,3 +26,5 @@ Ensuite on va se mettre
 
  
 - Créer un utilisateur au sein de ce groupe
+<P ALIGN="center"><IMG src="Capture d’écran (5).png" width=600></P>  
+<P ALIGN="center"><IMG src="Capture d’écran (6).png" width=600></P>  
